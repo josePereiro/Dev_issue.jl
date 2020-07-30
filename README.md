@@ -1,4 +1,4 @@
-Just exploring Pkg.develop function
+Just exploring Pkg.develop and Pkg.add functions
 
 # Usage
 ```julia
